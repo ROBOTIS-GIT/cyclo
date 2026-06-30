@@ -12,7 +12,7 @@ Cyclo is a modular framework for building and operating **Physical AI** systems.
 
 **Physical AI Lineup**
 
-- [OpenMANIPULATOR](https://github.com/ROBOTIS-GIT/open_manipulator), [AI Worker](https://github.com/ROBOTIS-GIT/ai_worker), [ROBOTIS Hand](https://github.com/ROBOTIS-GIT/robotis_hand)
+- [AI Sapiens](https://github.com/ROBOTIS-GIT/ai_sapiens), [AI Worker](https://github.com/ROBOTIS-GIT/ai_worker), [OpenMANIPULATOR](https://github.com/ROBOTIS-GIT/open_manipulator), [ROBOTIS Hand](https://github.com/ROBOTIS-GIT/robotis_hand)
 
 **Actuator products**
 
@@ -30,12 +30,12 @@ Cyclo is a modular framework for building and operating **Physical AI** systems.
 
 | Module | Repository | Role | Release |
 |--------|------------|------|---------|
-| Cyclo Manager | [`cyclo_manager`](https://github.com/ROBOTIS-GIT/cyclo_manager) | Operations and system management | ![not released](https://img.shields.io/badge/release-not_released-lightgrey?style=flat-square) |
-| Cyclo Intelligence | [`cyclo_intelligence`](https://github.com/ROBOTIS-GIT/cyclo_intelligence) | Next-generation imitation learning workflows | ![not released](https://img.shields.io/badge/release-not_released-lightgrey?style=flat-square) |
+| Cyclo Manager | [`cyclo_manager`](https://github.com/ROBOTIS-GIT/cyclo_manager) | Operations and system management | [![release](https://img.shields.io/github/v/release/ROBOTIS-GIT/cyclo_manager?style=flat-square)](https://github.com/ROBOTIS-GIT/cyclo_manager/releases) |
+| Cyclo Intelligence | [`cyclo_intelligence`](https://github.com/ROBOTIS-GIT/cyclo_intelligence) | Next-generation imitation learning workflows | [![release](https://img.shields.io/github/v/release/ROBOTIS-GIT/cyclo_intelligence?style=flat-square)](https://github.com/ROBOTIS-GIT/cyclo_intelligence/releases) |
 | Cyclo Control | [`cyclo_control`](https://github.com/ROBOTIS-GIT/cyclo_control) | Whole-body control and execution | [![release](https://img.shields.io/github/v/release/ROBOTIS-GIT/cyclo_control?style=flat-square)](https://github.com/ROBOTIS-GIT/cyclo_control/releases) |
-| Cyclo Lab | cyclo_lab | Simulation and Reinforcement Learning | ![not released](https://img.shields.io/badge/release-not_released-lightgrey?style=flat-square) |
+| Cyclo Lab | [`cyclo_lab`](https://github.com/ROBOTIS-GIT/cyclo_lab) | Simulation and Reinforcement Learning | [![release](https://img.shields.io/github/v/release/ROBOTIS-GIT/cyclo_lab?style=flat-square)](https://github.com/ROBOTIS-GIT/cyclo_lab/releases) |
 | — | [`robotis_interfaces`](https://github.com/ROBOTIS-GIT/robotis_interfaces) | Shared interface definitions | [![release](https://img.shields.io/github/v/release/ROBOTIS-GIT/robotis_interfaces?style=flat-square)](https://github.com/ROBOTIS-GIT/robotis_interfaces/releases) |
-| — | [`robotis_applications`](https://github.com/ROBOTIS-GIT/robotis_applications) | Application-level integrations and third-party dependencies | ![not released](https://img.shields.io/badge/release-not_released-lightgrey?style=flat-square) |
+| — | [`robotis_applications`](https://github.com/ROBOTIS-GIT/robotis_applications) | Application-level integrations and third-party dependencies | [![release](https://img.shields.io/github/v/release/ROBOTIS-GIT/robotis_applications?style=flat-square)](https://github.com/ROBOTIS-GIT/robotis_applications/releases) |
 
 > Additional private or product-specific repositories may exist depending on deployment.
 
@@ -51,7 +51,7 @@ Not all components are part of the public release. Typical internal extensions:
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| Documentation | Product and software manuals | [AI Worker Website](https://ai.robotis.com/) |
+| Documentation | Product and software manuals | [Manual](https://docs.robotis.com/) |
 | Discord | Community chat and support | [ROBOTIS Community](https://discord.gg/robotis) |
 | YouTube | Tutorials and demos | [ROBOTIS Open Source Team](https://www.youtube.com/@ROBOTISOpenSourceTeam) |
 
